@@ -2,6 +2,7 @@
 - In the context of this GitHub profile, I’m interested in two things:
   - 🌱 (Thinking | Learning) about (thinking | learning)
   - 🌱 Time, by which I mean all things to do with temporal and logical ordering <!-- (and note that 'orderings' are often linear ('complete'/'total'), but not always)-->
+- :game_die: I feel that the value of games to learning and research is substantially underappreciated.
 - :musical_keyboard: I’m currently learning Python, with an eye towards:
   - understanding the motivations behind coding conventions
   - strategies for OOP design
