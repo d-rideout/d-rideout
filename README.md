@@ -29,3 +29,6 @@ that there is an interaction between the knower and the known,
 and that this interaction creates a difference between past and future.
 Becoming is the sine qua non of science, and indeed, of knowledge itself.
 **-- Ilya Prigogine** (quoted in Jan-Kyrre Berg Olsen's PhD thesis 2002)
+
+> The fear of the LORD is the beginning of knowledge
+**-- Proverbs 1:7**
